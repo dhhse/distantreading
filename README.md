@@ -1,4 +1,4 @@
-# distantreading
+# Анализ текстов и distant reading
 
 ## Занятие 10 января: введение
 [Слайды](https://docs.google.com/presentation/d/1VKliGebpZTN-GpIwXr5Vc6aYBTl3_SiAb0A-L-Pddaw/edit?usp=sharing)
