@@ -3,7 +3,7 @@
 Сегодня мы начнем говорить о том, какими методами и инструментами можно делать Distant Reading и вообще количественный анализ различных текстов.  
 
 ## В прошлый раз мы [говорили](https://danilsko.github.io/slides/dhmasters2020/intro2020#/0/6) про "масштабирование Humanities"
-![slide_with_highlight](pics/slide_with_highlight.png)
+![slide_with_highlight](pics/clsscaling.png)
 
 В ближайшие несколько занятий сосредоточимся на масштабировании текстовых исследований
 
