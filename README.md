@@ -1,5 +1,3 @@
-# Анализ текстов и distant reading
-
 ## Занятие 24 января: Корпусные исследования в Digital Humanities, корпусные менеджеры для работы со своими корпусами
 
 [Слайды](https://docs.google.com/presentation/d/1ArCznW-eXXEE1unItl1vCr5EFD0Cvah_kfelUBpEEfg/edit?usp=sharing)
