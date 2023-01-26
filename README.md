@@ -10,9 +10,17 @@
 
 [Тетрадка с практикой](https://github.com/dhhse/distantreading/blob/main/practice1.md)
 
-[Видеосеминар по Voyant](https://youtu.be/ToEu8e7pKi4)
+[Видеосеминар по Voyant от его создателей](https://youtu.be/ToEu8e7pKi4)
+
+[Dialogica: Thinking-Through Voyant](https://voyanttools.github.io/dialogica/intro.html) -- умный туториал от создателей
 
 [Хороший туториал по Voyant](https://dh.sites.gettysburg.edu/toolkit/tools/voyant-tools/)
+
+[Еще хороший туториал](https://library.villanova.edu/application/files/9815/8739/5480/VoyantToolsParadiseLostTutorial.pdf)
+
+[Как провести корпусное исследование? Помогите!](https://sysblok.ru/knowhow/kak-provesti-korpusnoe-issledovanie-pomogite/) -- туториал Системного Блока с применением AntConc
+
+[Что такое дальнее чтение?](https://sysblok.ru/glossary/chto-takoe-dalnee-chtenie/) -- Системный Блокъ
 
 ## Занятие 10 января: введение
 [Слайды](https://docs.google.com/presentation/d/1VKliGebpZTN-GpIwXr5Vc6aYBTl3_SiAb0A-L-Pddaw/edit?usp=sharing)
