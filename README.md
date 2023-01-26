@@ -9,7 +9,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wxu_bxVwHwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Тетрадка с практикой](https://github.com/dhhse/distantreading/blob/main/practice1.md)
+
 [Видеосеминар по Voyant](https://youtu.be/ToEu8e7pKi4)
+
 [Хороший туториал по Voyant](https://dh.sites.gettysburg.edu/toolkit/tools/voyant-tools/)
 
 ## Занятие 10 января: введение
