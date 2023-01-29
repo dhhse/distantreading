@@ -22,6 +22,8 @@
 
 [Что такое дальнее чтение?](https://sysblok.ru/glossary/chto-takoe-dalnee-chtenie/) -- Системный Блокъ
 
+[Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
+
 ## Занятие 10 января: введение
 [Слайды](https://docs.google.com/presentation/d/1VKliGebpZTN-GpIwXr5Vc6aYBTl3_SiAb0A-L-Pddaw/edit?usp=sharing)
 
