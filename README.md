@@ -1,5 +1,17 @@
 # Анализ текстов и Distant Reading
 
+## Занятие 31 января: стилометрия, начало
+
+[Слайды](https://docs.google.com/presentation/d/13nI9w2Uraz-T4IKolwwa3kenxB_6QJeD_2-tgWVuL5I/edit?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iGiJ_oVVPQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9xrIHaPAuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Инструкция по установке Stylo](https://docs.google.com/document/d/1WyUeY6Qi7rlNRg73Bmo0FSPH3dwGjSxzS1SAi0D3uqw/edit#)
+
+[Практика в Stylo](https://github.com/dhhse/distantreading/blob/main/stylometry/stylometry_practice.md)
+
 ## Занятие 24 января: Корпусные исследования в Digital Humanities, корпусные менеджеры для работы со своими корпусами
 
 [Слайды](https://docs.google.com/presentation/d/1ArCznW-eXXEE1unItl1vCr5EFD0Cvah_kfelUBpEEfg/edit?usp=sharing)
