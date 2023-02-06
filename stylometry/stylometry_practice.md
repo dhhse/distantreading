@@ -4,7 +4,7 @@
 
 [Презентация Stylo in a nutshell](https://computationalstylistics.github.io/stylo_nutshell/)
 
-[Документ STYLO_HOWTO (очень полезный)](https://drive.google.com/file/d/1duyYsHYKnkmKQe28xv4t8wB202vtZCEI/view?usp=sharing)
+[Документ STYLO_HOWTO (очень полезный)](https://github.com/computationalstylistics/stylo_howto/blob/master/stylo_howto.pdf)
 
 [Оф.сайт разработчиков Stylo](https://computationalstylistics.github.io/)
 
