@@ -6,6 +6,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/njgX9PcgRnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[Практика в Stylo](https://github.com/dhhse/distantreading/blob/main/stylometry/stylometry_practice.md)
+
 ## Занятие 31 января: стилометрия, начало
 
 [Слайды](https://docs.google.com/presentation/d/13nI9w2Uraz-T4IKolwwa3kenxB_6QJeD_2-tgWVuL5I/edit?usp=sharing)
