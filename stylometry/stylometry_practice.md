@@ -216,6 +216,12 @@
 
 Демо: давайте поделим наших [14 писателей](stylometry_texts/2_fourteen_russian_novels.zip) на две такие папки -- и запустим classify()
 
+# Функция Oppose ()
+
+Делает контрастивный анализ текстов. 
+
+[Данные для эксперимента с Oppose](stylometry_texts/oppose.zip)
+
 
 # Функции rolling.delta() и rolling.classify() 
 
@@ -252,11 +258,5 @@ NB: В stylo есть проблема с применением функций 
  
 rolling.classify(write.png.file = TRUE, classification.method = "delta", mfw=1000,corpus.lang=“Other") 
 oppose(corpus.lang=“Other”)
-
-# Функция Oppose ()
-
-Делает контрастивный анализ текстов. 
-
-[Данные для эксперимента с Oppose](stylometry_texts/oppose.zip)
 
 ## [Все тексты для практики, использованные выше (ссылка на папку)](stylometry_texts)
