@@ -224,7 +224,7 @@
 
 Описание из HOWTO:
 
-[!oppose.png](pics/oppose.png)
+![oppose.png](pics/oppose.png)
 
 
 # Функции rolling.delta() и rolling.classify() 
