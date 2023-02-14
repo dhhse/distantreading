@@ -222,6 +222,10 @@
 
 [Данные для эксперимента с Oppose](stylometry_texts/oppose.zip)
 
+Описание из HOWTO:
+
+[!oppose.png](pics/oppose.png)
+
 
 # Функции rolling.delta() и rolling.classify() 
 
