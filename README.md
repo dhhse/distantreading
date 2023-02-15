@@ -1,5 +1,13 @@
 # Анализ текстов и Distant Reading
 
+## Занятие 14 февраля: окончание стилометрии
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_my-nrzvcv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bGqPva5NcrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Практика в Stylo](https://github.com/dhhse/distantreading/blob/main/stylometry/stylometry_practice.md)
+
 ## Занятие 7 февраля: разбор теста, продолжение стилометрии
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/igSJ5GBNp6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
