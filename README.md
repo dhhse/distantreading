@@ -2,8 +2,10 @@
 
 ## Занятие 21 февраля: введение в сетевой анализ: что, зачем и как
 
+[Слайды](https://danilsko.github.io/slides/networks_dhmasters_2023_nice.html)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBgufbXaeWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Вторая часть с практикой по созданию сети в EzLinaVis:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N7RBWqe1hVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
