@@ -1,5 +1,12 @@
 # Анализ текстов и Distant Reading
 
+## Занятие 21 февраля: введение в сетевой анализ: что, зачем и как
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oBgufbXaeWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N7RBWqe1hVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Занятие 14 февраля: окончание стилометрии
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_my-nrzvcv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
