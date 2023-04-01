@@ -1,5 +1,15 @@
 # Анализ текстов и Distant Reading
 
+## Занятие 7 марта: сетевой анализ в Gephi и визуализация сетей
+
+[Слайды](https://docs.google.com/presentation/d/1BzOndj7sw6VzlyrPUn7YiGXvYl2hb3PPVWOUtk8b8zw/edit?usp=sharing)
+[Инструкция: Визуализация и анализ CSV с графом при помощи Gephi](https://docs.google.com/document/d/1w3hWna5_BF60jxLf7Tn_sv6GyOCkYJ9ad4kQFU9mWLg/edit?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xSTmyniqh1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l25dQFOOON0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Занятие 21 февраля: введение в сетевой анализ: что, зачем и как
 
 [Слайды](https://danilsko.github.io/slides/networks_dhmasters_2023_nice.html)
