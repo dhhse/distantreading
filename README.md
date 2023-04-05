@@ -6,6 +6,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OgEO8JtQt8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 [Colab-тетрадка](https://colab.research.google.com/drive/1RM8kRtsSNvTsi_8pZd88nUQYXn1Kwcrj?usp=sharing)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_ZftJMg-cZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
