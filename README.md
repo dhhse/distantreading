@@ -1,5 +1,14 @@
 # Анализ текстов и Distant Reading
 
+[ДЗ2](https://docs.google.com/presentation/d/1WTLdvvVkXpTeTLuCNvBI9CEVOGr0TI23gWfyOQMRojw/edit?usp=sharing) -- до 14 мая
+[ДЗ1](https://slides.com/danilsko/stylometry2drcourse#/17) -- до 5 марта
+
+## Занятие 11 апреля: TEI/XML
+
+[Слайды](https://docs.google.com/presentation/d/12LHodmyyE6loE4P5e3hJztpWKFSM8zuYYjqwKe7YqtU/edit?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6wZ7elDoCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Занятие 4 апреля: разбор типовых проблем ДЗ 1, ликбез по кодировкам
 
 [Слайды](https://docs.google.com/presentation/d/1vv31atITkuefG0wXfiz17Kb_3-HMWXkVNifv4UAyvMQ/edit?usp=sharing)
