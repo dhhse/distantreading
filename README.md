@@ -1,6 +1,7 @@
 # Анализ текстов и Distant Reading
 
 [ДЗ2](https://docs.google.com/presentation/d/1WTLdvvVkXpTeTLuCNvBI9CEVOGr0TI23gWfyOQMRojw/edit?usp=sharing) -- до 14 мая
+
 [ДЗ1](https://slides.com/danilsko/stylometry2drcourse#/17) -- до 5 марта
 
 ## Занятие 11 апреля: TEI/XML
