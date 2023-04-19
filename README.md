@@ -4,6 +4,16 @@
 
 [ДЗ1](https://slides.com/danilsko/stylometry2drcourse#/17) -- до 5 марта
 
+
+## Занятие 18 апреля: Анализ тематики текста. Подходы. Извлечение ключевых слов: методы, применения и инструменты
+
+[Слайды](https://docs.google.com/presentation/d/19MtXZ_y-vzaF4JingwzaCzyziHv9QnwgmtVg9qFwHuY/edit?usp=sharing)
+[Тетрадка](https://colab.research.google.com/drive/1zEAWxD3H9LvOaFkSAOdXJxUTCTikgVQp?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UMi57hAnzqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZS2x_ZmcANQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Занятие 11 апреля: TEI/XML
 
 [Слайды](https://docs.google.com/presentation/d/12LHodmyyE6loE4P5e3hJztpWKFSM8zuYYjqwKe7YqtU/edit?usp=sharing)
