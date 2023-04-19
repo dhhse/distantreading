@@ -8,6 +8,7 @@
 ## Занятие 18 апреля: Анализ тематики текста. Подходы. Извлечение ключевых слов: методы, применения и инструменты
 
 [Слайды](https://docs.google.com/presentation/d/19MtXZ_y-vzaF4JingwzaCzyziHv9QnwgmtVg9qFwHuY/edit?usp=sharing)
+
 [Тетрадка](https://colab.research.google.com/drive/1zEAWxD3H9LvOaFkSAOdXJxUTCTikgVQp?usp=sharing)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UMi57hAnzqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
