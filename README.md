@@ -2,6 +2,8 @@
 
 [ДЗ2](https://docs.google.com/presentation/d/1WTLdvvVkXpTeTLuCNvBI9CEVOGr0TI23gWfyOQMRojw/edit?usp=sharing) -- до 14 мая
 
+* [Форма для сдачи](https://forms.gle/QoKDZDuPjTEktRs79)
+
 [ДЗ1](https://slides.com/danilsko/stylometry2drcourse#/17) -- до 5 марта
 
 
