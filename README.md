@@ -6,6 +6,14 @@
 
 [ДЗ1](https://slides.com/danilsko/stylometry2drcourse#/17) -- до 5 марта
 
+## Занятие 16 мая: дистрибутивная семантика, векторные модели и DH
+
+[Слайды](https://docs.google.com/presentation/d/1L6x9V3K0zhcbNz5J8UqAl4qCRGZy2XUpnioj2yahgdU/edit?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEMJl277uuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3D1bFeKuYA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Занятие 18 апреля: Анализ тематики текста. Подходы. Извлечение ключевых слов: методы, применения и инструменты
 
