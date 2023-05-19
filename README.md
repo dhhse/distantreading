@@ -14,6 +14,16 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3D1bFeKuYA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Занятие 25 апреля: тематическое моделирование
+
+[Слайды](https://docs.google.com/presentation/d/1oqnEpZriBm0DCM-MmP9VOvI1uWSTOWeB8DfR53HMAlk/edit?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V5qUif7nqow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Тетрадка с кодом](https://colab.research.google.com/drive/1Npi5M1JN9nA1euSpKpIxaPrgBn4Gf3J2?usp=sharing) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/913hR7VYCcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Занятие 18 апреля: Анализ тематики текста. Подходы. Извлечение ключевых слов: методы, применения и инструменты
 
