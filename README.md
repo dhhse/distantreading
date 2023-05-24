@@ -1,10 +1,20 @@
 # Анализ текстов и Distant Reading
 
+[ДЗ3](https://docs.google.com/presentation/d/1T9jrFOFwOZBDZjbqnl41nGBGZVIjJCg3oKRyjeUmPig/edit?usp=sharing) -- до 19 июня 23:59
+
 [ДЗ2](https://docs.google.com/presentation/d/1WTLdvvVkXpTeTLuCNvBI9CEVOGr0TI23gWfyOQMRojw/edit?usp=sharing) -- до 14 мая
 
 * [Форма для сдачи](https://forms.gle/QoKDZDuPjTEktRs79)
 
 [ДЗ1](https://slides.com/danilsko/stylometry2drcourse#/17) -- до 5 марта
+
+## Занятие 23 мая: word2vec в питоне, готовые модели и обучение своей
+
+[Тетрадка](https://colab.research.google.com/drive/1QpEgHdcKojrfcpbT0gVGCqE6-YScFZsS?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PF7eJOclrNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3nYygRO8qE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Занятие 16 мая: дистрибутивная семантика, векторные модели и DH
 
