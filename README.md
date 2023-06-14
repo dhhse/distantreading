@@ -2,11 +2,22 @@
 
 [ДЗ3](https://docs.google.com/presentation/d/1T9jrFOFwOZBDZjbqnl41nGBGZVIjJCg3oKRyjeUmPig/edit?usp=sharing) -- до 19 июня 23:59
 
+* [Форма для сдачи](https://forms.gle/hkW8sEjohGM7yXS3A)
+
 [ДЗ2](https://docs.google.com/presentation/d/1WTLdvvVkXpTeTLuCNvBI9CEVOGr0TI23gWfyOQMRojw/edit?usp=sharing) -- до 14 мая
 
 * [Форма для сдачи](https://forms.gle/QoKDZDuPjTEktRs79)
 
 [ДЗ1](https://slides.com/danilsko/stylometry2drcourse#/17) -- до 5 марта
+
+
+## Занятие 30 мая: разбор ДЗ 2 по сетям, тест по дистрибутивной семантике, мини-лекция про DH и ML:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OGSJQAkgxK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[слайды](https://docs.google.com/presentation/d/1MPznYN8pnCPEV462Q9svqfYL5mmMCRwfieF5WjXq8Kc/edit#slide=id.p)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jrggUVx1jfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Занятие 23 мая: word2vec в питоне, готовые модели и обучение своей
 
